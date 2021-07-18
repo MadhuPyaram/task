@@ -10,5 +10,5 @@ This file is storing in master Branch
 
 
 
-I'm going to store this file in new Brach called Spilit-Branch.
+I'm going to store this file in new Brach called Split-Branch.
 
